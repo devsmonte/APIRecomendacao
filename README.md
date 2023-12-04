@@ -8,8 +8,11 @@ Recomendações Personalizadas: Endpoint (/recomendacao/<cliente_id>) para obter
 
 # Tecnologias Utilizadas:
 Python
+
 Flask
+
 Surprise (biblioteca de recomendação)
+
 Pandas (manipulação de dados)
 
 # Como Utilizar:
