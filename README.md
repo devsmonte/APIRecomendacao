@@ -1,4 +1,4 @@
-# APIRecomendacao
+# API Recomendação
  Este repositório contém uma aplicação em Python usando Flask para recomendação de produtos com base em avaliações de clientes. O sistema utiliza um modelo de filtragem colaborativa implementado com a biblioteca Surprise para gerar recomendações personalizadas para clientes com base em seus históricos de compras e avaliações.
 
 # Funcionalidades:
